@@ -1,0 +1,4 @@
+## NUMERO DE  PORT a utiliser E1 ou faire un dual Z avec E1 pour une carte 4.2.2 
+step_pin: PC1
+dir_pin: !PC3
+enable_pin: !PC7 
